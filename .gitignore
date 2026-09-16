@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+thumbs.db
+Thumbs.db
+*.log
+.vscode/
+.idea/
